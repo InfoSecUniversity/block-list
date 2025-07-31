@@ -1,3 +1,4 @@
+#The following are IP's the scan's networks from externally. Best to put this list to block incomfing connections.
 1.179.241.60
 2.57.122.123
 2.57.122.152

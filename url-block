@@ -1,5 +1,5 @@
-#Have verify the links to go to malware sites on this list. They were checked against virus total as of 7/31/2025.
-#This is a url list of malware sites. Some are malware trackers and/metrics as well. 
+#The URLs listed below have been verified as malicious and were cross-checked against VirusTotal as of July 31, 2025.
+#This list includes known malware distribution sites, as well as domains associated with malware tracking and telemetry
 1clickvpn.net/
 acehardware-www.baynote.net/
 ak.ptailadsol.net/

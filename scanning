@@ -1,7 +1,9 @@
 #The following are IP's the scan's networks from externally. Best to put this list to block incoming connections.
+#Checked against virust total as of 8/04/2025
 104.28.197.13
 104.28.197.14
 185.213.175.176
+194.110.115.48
 #Cheked against virus total as of 7/31/2025
 1.179.241.60
 2.57.122.123

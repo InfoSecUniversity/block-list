@@ -1,5 +1,5 @@
 #The following are IP's the scan's networks from externally. Best to put this list to block incoming connections.
-#If you noticed an IP has been cleaned up. Please let me know on the following page.
+#If you noticed an IP has been cleaned up. Please let me know on the following page. https://github.com/InfoSecUniversity/block-list/issues
 1.179.241.60
 2.57.122.123
 2.57.122.152

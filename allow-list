@@ -1,5 +1,9 @@
+#For palo alto firewalls
 *.paloaltonetworks.com
+#Unifi equipment
 trace.svc.ui.com
+#For offline websites
 kiwix.org/*
 weather.com/*
+#For ham radios tox
 store.mkme.org/*

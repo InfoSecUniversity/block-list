@@ -7,11 +7,3 @@ kiwix.org/*
 weather.com/*
 #For ham radios tox
 store.mkme.org/*
-#Ubuntu urls for updates
-archive.ubuntu.com
-security.ubuntu.com
-*.archive.ubuntu.com
-*.security.ubuntu.com
-*.canonical.com
-*.ubuntu.com
-*.fastly.net

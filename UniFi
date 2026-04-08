@@ -1,0 +1,9 @@
+#Unifi equipment
+trace.svc.ui.com
+unifi.ui.com
+network.unifi.ui.com
+*.ui.com
+*.unifi.ui.com
+*.ubnt.com 
+update.ui.com
+static.ui.com

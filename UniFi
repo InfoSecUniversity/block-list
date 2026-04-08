@@ -1,4 +1,5 @@
 #Unifi equipment
+device.svc.ui.com
 trace.svc.ui.com
 unifi.ui.com
 network.unifi.ui.com

@@ -1,5 +1,6 @@
 #The following are IP's the scan's networks from externally. Best to put this list to block incoming connections.
 #If you noticed an IP has been cleaned up. Please let me know on the following page. https://github.com/InfoSecUniversity/block-list/issues
+#I also put these numeric order. If you see something out of order. Please let me know. 
 1.9.238.116
 1.22.131.222
 1.59.255.131
@@ -19,6 +20,7 @@
 13.84.166.30
 13.86.104.14
 13.86.105.19
+13.86.113.214
 13.89.124.217
 13.89.124.221
 13.89.125.24
@@ -835,6 +837,7 @@
 162.220.10.222
 162.243.167.163
 162.243.175.91
+162.245.189.53
 162.248.224.101
 162.251.165.90
 163.5.148.15

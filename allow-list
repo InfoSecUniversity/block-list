@@ -22,4 +22,6 @@ security.ubuntu.com
 *.security.ubuntu.com
 *.canonical.com
 *.ubuntu.com
+#Random
 *.fastly.net
+white-and-yellow.saint-gobain.com

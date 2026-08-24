@@ -22,6 +22,10 @@ security.ubuntu.com
 *.security.ubuntu.com
 *.canonical.com
 *.ubuntu.com
+#ninja one for student. 8/24/2026
+*.rmmservice.com
+*.ninjarmm.com
+*.ninjarmm.net
 #Random
 *.fastly.net
 white-and-yellow.saint-gobain.com
